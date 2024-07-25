@@ -4,7 +4,7 @@ public class Hotel {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Welcome to our hotel.");
+		System.out.println("Welcome to our Hotel.");
 		
 		System.out.println("Available rooms are:50");
 		Rooms rms = new Rooms("SingleRoom","DoubleRoom","TripleRoom");
